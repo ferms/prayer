@@ -1,1 +1,12 @@
-/* You can add global styles to this file, and also import other style files */
+.p-accordion-header-text {
+    pointer-events: none;
+}
+
+.p-accordion-toggle-icon {
+    pointer-events: none;
+}
+
+.p-card .p-card-body {
+    padding: 0.5rem;
+}
+
